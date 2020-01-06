@@ -1,0 +1,6 @@
+*.class
+*.tgz
+*.tar.gz
+*.tar
+tmp
+Session.vim
